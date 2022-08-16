@@ -12,7 +12,7 @@ const HeadlineCards = () => {
                 <button className='border-white bg-white text-black mx-2 absolute bottom-6'>Order Now</button>
             </div>
             <img 
-            className='max-h-[16rem] md:max-h-[20rem] md:max-w-[38rem] w-full object-cover rounded-xl' src='https://images.pexels.com/photos/1410235/pexels-photo-1410235.jpeg?auto=compress&cs=tinysrgb&w=600' alt='Bogo-image'/>
+            className='max-h-[16rem] md:max-h-[20rem] md:max-w-[38rem] w-full object-cover rounded-xl' src='https://images.pexels.com/photos/1410235/pexels-photo-1410235.jpeg?auto=compress&cs=tinysrgb&w=600' alt='Bogo'/>
         </div>
         {/* Card */}
         <div className='rounded-xl relative'>
@@ -23,7 +23,7 @@ const HeadlineCards = () => {
                 <button className='border-white bg-white text-black mx-2 absolute bottom-6'>Order Now</button>
             </div>
             <img 
-            className='max-h-[16rem] md:max-h-[20rem] md:max-w-[38rem] w-full h-full object-cover rounded-xl' src='https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg?auto=compress&cs=tinysrgb&w=600' alt='Bogo-image'/>
+            className='max-h-[16rem] md:max-h-[20rem] md:max-w-[38rem] w-full h-full object-cover rounded-xl' src='https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg?auto=compress&cs=tinysrgb&w=600' alt='food-1'/>
             
         </div>
         {/* Card */}
@@ -35,7 +35,7 @@ const HeadlineCards = () => {
                 <button className='border-white bg-white text-black mx-2 absolute bottom-6'>Order Now</button>
             </div>
             <img 
-            className='max-h-[16rem] md:max-h-[20rem] md:max-w-[38rem] w-full object-cover rounded-xl' src='https://images.pexels.com/photos/6210876/pexels-photo-6210876.jpeg?auto=compress&cs=tinysrgb&w=600' alt='Bogo-image'/>
+            className='max-h-[16rem] md:max-h-[20rem] md:max-w-[38rem] w-full object-cover rounded-xl' src='https://images.pexels.com/photos/6210876/pexels-photo-6210876.jpeg?auto=compress&cs=tinysrgb&w=600' alt='food-2'/>
         </div>
     </div>
   )
